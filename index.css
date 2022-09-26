@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sidebar{
+    background-color: blue;
+    width: 20pc;
+    margin-top: 3pc;
+    height: 30pc;
+    text-align: center;
+    margin-left: 9pc;
+    background-repeat: no-repeat;
+    
+
+}
+.word{
+    color: white;
+    padding-top: 2pc;
+}
+.lorem{
+    color:white;
+    padding: 1pc;
+}
+.img{
+    width: 50%;
+    margin-top: 3pc;
+}
+.sidebar2{
+    background-color: white;
+    width: 20pc;
+    height: 30pc;
+    float: right;
+    margin-top:-30pc;
+    margin-right: 30pc;
+    border: 1pc solid;
+
+
+
+}
+.form{
+    color: black;
+    font-size:large;
+    padding: 2pc;
+    margin-top: 1pc;
+    text-align: left;
+}
+.login-word{
+    text-align: center;
+    margin-top: 2pc;
+    color: black;
+}
+.forget-password{
+    color: blue;
+}
+.Login{
+    background-color: blue;
+    padding: 0pc 6pc;
+    text-decoration: none;
+}
+.p{
+    font-size: small;
+    padding-left: 6pc;
+    color: blue;
+}
+.circle{
+    background-color:white;
+    color: black;
+    width: 0pc;
+    margin-left: 7pc;
+
+}
+.facebook{
+    background-color: blue;
+    width: 6pc;
+    padding: 2% 0pc;
+    color: white;
+}
+.google{
+    background-color: red;
+    width: 6pc;
+    padding: 2% 0pc;
+    color: white;
+
+}
+.button{
+    border: none;
+    margin-left: 1pc;
+}
